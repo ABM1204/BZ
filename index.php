@@ -41,7 +41,9 @@
 							<a class="nav-link" href="#">Shop</a>
 						</li>
 					</ul>
+					<a href="https://www.google.com/">
 					<button type="button" class="btn-user ml-auto mt-3 mt-lg-0 "></button>
+					</a>
 				</div>
 
 			</nav>

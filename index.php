@@ -68,7 +68,7 @@
 			</div>
 			<div class="carousel-item">
 				<img src="images/slide-3.jpg" class="d-block w-100" alt="">
-			<p align="right"><img src="kg.jng" height="300" width="500" alt=""></p>	
+			<p align="right"><img src="client-1.jpg" height="300" width="500" alt=""></p>	
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#main-carousel" role="button" data-slide="prev">			

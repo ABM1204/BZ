@@ -87,8 +87,8 @@
 	<div class="person-info row">
 			<div class="person-1 col-12 col-md-4">
 				<img src="images/person-1.jpg" alt="">
-				<h4 class="text-uppercase pt-3 border-f pb-2">Craig Garner Ceo</h4>
-				<p>Amazone blessée du type de Sôsiklès. Copie romaine d'après un original grec Elle rassemble le peuple, les faubourgs et la</p>
+				<h4 class="text-uppercase pt-3 border-f pb-2">Sportsmen</h4>
+				<p></p>
 				<div class="fg row px-2">
 					<a class="btn btn-1 btn-primary btn-lg col-6 fab fa-facebook-f" href="https://www.facebook.com/" role="button"></a>
 					<a class="btn btn-2 btn-primary btn-lg col-6 fab fa-google-plus-g" href="https://www.google.com/" role="button"></a>
@@ -96,8 +96,8 @@
 			</div>
 			<div class="person-2 col-12 col-md-4">
 				<img src="images/person-2.jpg" alt="">
-				<h4 class="text-uppercase pt-3 border-f pb-2">Bridge Roberts  Creative Genius</h4>
-				<p>Amazone blessée du type de Sôsiklès. Copie romaine d'après un original grec Elle rassemble le peuple, les faubourgs et la</p>
+				<h4 class="text-uppercase pt-3 border-f pb-2">Traveller</h4>
+				<p></p>
 				<div class="fg row px-2">
 					<a class="btn btn-1 btn-primary btn-lg col-6 fab fa-facebook-f" href="https://www.facebook.com/" role="button"></a>
 					<a class="btn btn-3 btn-primary btn-lg col-6 fab fa-dribbble" href="https://dribbble.com/" role="button"></a>
@@ -105,8 +105,8 @@
 			</div>
 			<div class="person-3 col-12 col-md-4">
 				<img src="images/person-3.jpg" alt="">
-				<h4 class="text-uppercase pt-3 border-f pb-2">Malade Garner Chef De Projet</h4>
-				<p>Amazone blessée du type de Sôsiklès. Copie romaine d'après un original grec Elle rassemble le peuple, les faubourgs et la</p>
+				<h4 class="text-uppercase pt-3 border-f pb-2">Musician</h4>
+				<p></p>
 				<div class="fg row px-2 mb-5">
 					<a class="btn btn-4 btn-primary btn-lg col-6 fab fab fa-twitter" href="https://twitter.com/" role="button"></a>
 					<a class="btn btn-5 btn-primary btn-lg col-6 fab fa-youtube" href="https://www.youtube.com/" role="button"></a>
@@ -116,11 +116,11 @@
 	</div>
 	<div class="mid-block pb-5">
 		<div class="mid-info container pt-4">
-			<h4 class="text-center text-uppercase pt-5 mb-5">Our features</h4>
+			<h4 class="text-center text-uppercase pt-5 mb-5">My goals</h4>
 			<div class="info-block-1 row pt-5">
 				<div class="text-info col-12 col-xl-6">
-					<h5 class="col-8 pl-0 mb-5">Visual Composer page builder</h5>
-					<p class="mb-4">We include Visual Composer plugin that allow user to create complex layout with visual page builder, you just need to drag and drop the elements or widgets to the page builder interface easily.</p>
+					<h5 class="col-8 pl-0 mb-5">Money</h5>
+					<p class="mb-4">Nowdays money is very important thing. So, my first target is earn a lot of money to live very happy and long life.</p>
 					<a class="btn btn-info px-5 py-2 mt-2" href="#" role="button">Lire plus</a>
 				</div>
 				<div class="mid-img col-12 col-xl-6">
@@ -132,8 +132,8 @@
 					<img class="ml-0 pl-0 mr-5" src="images/mid-img-2.png" alt="">
 				</div>
 				<div class=" col-12 col-xl-5 pl-5 ml-5">
-					<h5 class="col-8 pl-0 mb-4 mt-3">Customize & live preview</h5>
-					<p class="mb-4 pt-3">We include Visual Composer plugin that allow user to create complex layout with visual page builder, you just need to drag and drop the elements or widgets to the page builder interface easily.</p>
+					<h5 class="col-8 pl-0 mb-4 mt-3">Creating</h5>
+					<p class="mb-4 pt-3">Before going to another world i would like to leave my traces in history of world by creating anithing important for humanity.</p>
 					<a class="btn btn-info px-5 py-2 mt-3" href="#" role="button">Lire plus</a>
 				</div>
 			</div>
@@ -142,7 +142,7 @@
 	</div>
 	<div class="box-client pb-5 mb-5">
 		<div class="box-text">
-			<h3 class="text-center mt-5 text-uppercase">What's our clients say?</h3>
+			<h3 class="text-center mt-5 text-uppercase">My contact detailes</h3>
 		</div>
 		<div id="feedback-carousel" class="feedback-carousel carousel slide mt-5 pt-4" data-ride="carousel">
 			<ol class="carousel-indicators">
@@ -162,9 +162,9 @@
 						<div class="col-md-9 col-lg-10">
 							<p class="b-2 pb-0 mb-0 pb-0 pt-0">«</p>
 							<p class="feedback-text">
-								What’s our clients talking about our product or service. This is only an example to show you quote block effect here.
+							As usual i don't sit at social media but i have phone number. If you want i can contact me)))
 							</p>
-							<p class="text-right text-uppercase avtor"><em>georg clooney</em></p>
+							<p class="text-right text-uppercase avtor"><em>BZ</em></p>
 							<p class="b-2 pb-0 mb-0 text-right">»</p>
 						</div>
 					</div>
@@ -181,9 +181,9 @@
 						<div class="col-md-9 col-lg-10">
 							<p class="b-2 pb-0 mb-0">«</p>
 							<p class="feedback-text">
-								What’s our clients talking about our product or service. This is only an example to show you quote block effect here.
+								As usual i don't sit at social media but i have phone number. If you want i can contact me)))
 							</p>
-							<p class="text-right text-uppercase avtor"><em>georg clooney</em></p>
+							<p class="text-right text-uppercase avtor"><em>BZ</em></p>
 							<p class="b-2 pb-0 mb-0 text-right">»</p>
 						</div>
 					</div>
@@ -200,9 +200,9 @@
 						<div class="col-md-9 col-lg-10">
 							<p class="b-2 pb-0 mb-0">«</p>
 							<p class="feedback-text">
-								What’s our clients talking about our product or service. This is only an example to show you quote block effect here.
+								My contact details
 							</p>
-							<p class="text-right text-uppercase avtor"><em>georg clooney</em></p>
+							<p class="text-right text-uppercase avtor"><em>BZ</em></p>
 							<p class="b-2 pb-0 mb-0 text-right">»</p>
 						</div>
 					</div>
@@ -221,7 +221,8 @@
 	
 	<footer class="footer py-3">
 		<div class="container">
-			<p class="py-4">Copyright © All Rights Reserved. Bridgetech-ma.com.com - Goh.h.com@gmail.com</p>
+			<p class="py-4">phone number: +996 (707) 324 357</p>
+			<p class="py-4">Home address: Panfilov st.145</p>
 		</div>
 	</footer>
 
